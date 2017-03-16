@@ -18,7 +18,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     
-    [GMSServices provideAPIKey:@"AIzaSyA5UWv3-vgKIubCCdb0NmQ2eHhs7bLUBoI"];
+    [GMSServices provideAPIKey:@"<USE YOUR GOOGLE MAPS API KEY HERE>"];
     
     return YES;
 }
