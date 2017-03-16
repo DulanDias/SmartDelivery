@@ -6,3 +6,6 @@ This sample application demonstrates the use of the Google Maps API for iOS to a
 1. Get the location through GPS and show it on the map
 2. Reverse Geocode longitude and latitude to get the address
 3. Get the distance between two location points
+
+# To Get Started:
+Find the AppDelegate.m file and replace "<USE YOUR GOOGLE MAPS API KEY HERE>" with your own Google Maps API Key.
